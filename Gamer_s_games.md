@@ -34,6 +34,8 @@
 
 [Liar's Bar](https://store.steampowered.com/app/3097560/Liars_Bar/) — R$23,50
 
+[WestHunt](https://store.steampowered.com/app/1570330/West_Hunt/) — R$20,69
+
 [Super Battle Golf](https://store.steampowered.com/app/4069520/Super_Battle_Golf/) — R$19,99
 
 [ROUNDS](https://store.steampowered.com/app/1557740/ROUNDS/) — R$17,99
