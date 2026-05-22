@@ -10,7 +10,7 @@
 
 [Party Animals](https://store.steampowered.com/app/1260320/Party_Animals/) — R$ 64,95
 
-[Gang Beasts](https://store.steampowered.com/app/285900/Gang_Beasts/) - R$59,99
+[Gang Beasts](https://store.steampowered.com/app/285900/Gang_Beasts/) — R$59,99
 
 [Witch It](https://store.steampowered.com/app/559650/Witch_It/) — R$ 59,99
 
@@ -22,6 +22,8 @@
 
 [Bean There Won That](https://store.steampowered.com/app/3130340/Bean_There_Won_That/) — R$ 33,00
 
+[Move or Die](https://store.steampowered.com/app/323850/Move_or_Die/) — R$27,99
+
 [SpiderHeck](https://store.steampowered.com/app/1329500/SpiderHeck/) — R$ 24,95
 
 [Pratfall](https://store.steampowered.com/app/1329500/SpiderHeck/) — R$ 23,99
@@ -32,7 +34,11 @@
 
 [Super Battle Golf](https://store.steampowered.com/app/4069520/Super_Battle_Golf/) — R$ 19,99
 
+[ROUNDS](https://store.steampowered.com/app/1557740/ROUNDS/) — R$17,99
+
 [Prop Hunter](https://store.steampowered.com/app/1682050/PropHunter/) — R$ 9,99
+
+[Buckshot Roulette](https://store.steampowered.com/app/2835570/Buckshot_Roulette/) — R$9,99
 
 [Airport Security Sucks!](https://store.steampowered.com/app/4285690/Airport_Security_Sucks/) — grátis
 
