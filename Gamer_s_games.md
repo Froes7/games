@@ -28,7 +28,7 @@
 
 [SpiderHeck](https://store.steampowered.com/app/1329500/SpiderHeck/) — R$24,95
 
-[Pratfall](https://store.steampowered.com/app/1329500/SpiderHeck/) — R$23,99
+[Pratfall](https://store.steampowered.com/app/4244510/Pratfall/) — R$23,99
 
 [A Gentlemen's Dispute](https://store.steampowered.com/app/2820700/A_Gentlemens_Dispute/) — R$23,99
 
